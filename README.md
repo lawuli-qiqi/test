@@ -1,4 +1,4 @@
-# test
-线性回归填充csv文件中的缺失值
+# 回归填充
+一个用线性回归填充csv文件中缺失值的小脚本
 
-Linear regression fills the missing values in the csv file
+A small script that fills missing values in a csv file with linear regression
